@@ -7,7 +7,7 @@
 https://github.com/Haxase/Dicksrus-.git
 
 </br>
->blockquote /help!
+**boldtext** /help!
 <!-- Pinned Repositories -- >
 
 
