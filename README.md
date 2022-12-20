@@ -7,8 +7,8 @@
 https://github.com/Haxase/Dicksrus-.git
 
 </br>
-<em><strong>help</strong></em>.
-**bold text**/help!
+<em><strong>help</strong></em>
+
 <!-- Pinned Repositories -- >
 
 
