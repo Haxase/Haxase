@@ -9,10 +9,10 @@ https://github.com/Haxase/Dicksrus-.git
 </br>
 <em><strong>help</strong></em>
 
-[grinder][1]
-[label]:
-[1]:
-https://github.com/Haxase/Dicksrus-.git
+
+
+
+<https://github.com/Haxase/Dicksrus-.git> "ginder"
 
 <!-- Pinned Repositories -- >
 
