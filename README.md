@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 </br>
-imh aling="center" https://github.com/Haxase/Dicksrus-.git
+img aling="center" https://github.com/Haxase/Dicksrus-.git
 
 
 <!-- Pinned Repositories -- >
