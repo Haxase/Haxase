@@ -4,15 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 </br>
-https://github.com/Haxase/Dicksrus-.git
 
+<a href="https://github.com/Haxase/Dicksrus-.git" title="grinder">Grinder</a>
 </br>
 <em><strong>help</strong></em>
 
 
-<a href="https://github.com/Haxase/Dicksrus-.git" title="grinder">Grinder</a>
 
-<https://github.com/Haxase/Dicksrus-.git> "ginder"
+
+
 
 <!-- Pinned Repositories -- >
 
